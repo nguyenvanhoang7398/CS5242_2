@@ -1,0 +1,6 @@
+.idea
+*-checkpoint.ipynb
+**/__pycache__/**
+**/.ipynb_checkpoints/**
+data/*.npz
+data/*.csv
